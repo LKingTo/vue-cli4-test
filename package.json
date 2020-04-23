@@ -4,8 +4,10 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
+    "serve-op": "vue-cli-service serve --open",
     "build": "vue-cli-service build",
-    "build-o": "vue-cli-service build && vue inspect > output.js",
+    "build-md": "vue-cli-service build --modern",
+    "build-wp": "vue-cli-service build && vue inspect > output.js",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
