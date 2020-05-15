@@ -68,12 +68,12 @@ module.exports = {
   },
   // webpack-dev-server 相关配置: https://webpack.js.org/configuration/dev-server/
   devServer: {
-    host: "0.0.0.0",
-    port: 8080,
+    host: "localhost",
+    port: 5788,
     https: false,
     hotOnly: false,
     // 代理选项：https://github.com/chimurai/http-proxy-middleware#proxycontext-config
-    proxy: {}
+    // proxy: {}
   },
   // 是否为 Babel 或 TypeScript 使用 thread-loader。该选项在系统的 CPU 有多于一个内核时自动启用，仅作用于生产构建。
   parallel: require("os").cpus().length > 1,
