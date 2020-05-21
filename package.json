@@ -8,7 +8,8 @@
     "build": "vue-cli-service build",
     "build-md": "vue-cli-service build --modern",
     "build-wp": "vue-cli-service build && vue inspect > output.js",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "prettier": "prettier --write 'src/**/*.{vue,js,scss,css}'"
   },
   "dependencies": {
     "core-js": "^3.6.4",
