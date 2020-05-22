@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="28px" viewBox="0 0 31 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_理财资讯 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-21.6%" y="-30.9%" width="143.1%" height="161.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1.63504464" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="-17.7629743%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#66AFFF" offset="0%"></stop>
+            <stop stop-color="#4C5EFC" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0.876801057,8.22841557 L11.8768141,0.762343398 C12.5548867,0.302113112 13.4451133,0.302113112 14.1231859,0.762343398 L25.1231859,8.22840675 C25.6716148,8.60064352 26,9.22041098 26,9.88323403 L26,26.5001655 C26,27.3285926 25.3284271,28.0001655 24.5,28.0001655 L1.49976469,28.0001839 C0.671337568,28.0001839 -0.000235307712,27.328611 -0.000235307712,26.5001839 C-0.000235307712,26.5001777 -0.000235307674,26.5001716 -0.000235307599,26.5001655 L-1.30029569e-05,9.88321832 C-4.8698656e-06,9.22040395 0.328379404,8.60064746 0.876801057,8.22841557 Z" id="path-3"></path>
+        <linearGradient x1="0%" y1="23.603687%" x2="50%" y2="86.1245888%" id="linearGradient-5">
+            <stop stop-color="#67B1FF" offset="0%"></stop>
+            <stop stop-color="#4B61F7" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-6" points="0.75 11.2352941 26.4375 28 0.75 28"></polygon>
+        <filter x="-27.3%" y="-29.8%" width="154.5%" height="183.5%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0225493993   0 0 0 0 0.0491251425   0 0 0 0 0.492453231  0 0 0 0.572916667 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="77.6241881%" y1="22.3758119%" x2="11.3926914%" y2="111.392691%" id="linearGradient-8">
+            <stop stop-color="#50A0FF" offset="0%"></stop>
+            <stop stop-color="#4D62FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M-2.27373675e-13,11.2352941 L25.6875,28 L1.5,28 C0.671572875,28 -2.27494267e-13,27.3284271 -2.2759572e-13,26.5 L-2.27373675e-13,11.2352941 Z" id="path-9"></path>
+        <filter x="-27.3%" y="-29.8%" width="154.5%" height="183.5%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0225493993   0 0 0 0 0.0491251425   0 0 0 0 0.492453231  0 0 0 0.747990263 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M3.5,6 L22.5,6 C22.7761424,6 23,6.22385763 23,6.5 L23,9 L3,9 L3,6.5 C3,6.22385763 3.22385763,6 3.5,6 Z" id="path-11"></path>
+    </defs>
+    <g id="icon规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad-Copy-2" transform="translate(-198.000000, -567.000000)">
+            <g id="icon_理财资讯-2" transform="translate(200.000000, 567.000000)">
+                <g id="icon_理财资讯">
+                    <rect id="Rectangle-13" fill="#5968F8" opacity="0.172271286" filter="url(#filter-1)" x="2" y="5" width="22.75" height="15.8823529"></rect>
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+                    <path d="M23,12 L23,27 L3,27 L3,12 L3,7 L23,7 L23,12 Z M13.2886073,9 C13.0124649,9 12.7886073,9.22385763 12.7886073,9.5 L12.7886073,11.5 C12.7886073,11.7761424 13.0124649,12 13.2886073,12 L17.2886073,12 C17.5647497,12 17.7886073,11.7761424 17.7886073,11.5 L17.7886073,9.5 C17.7886073,9.22385763 17.5647497,9 17.2886073,9 L13.2886073,9 Z M13.2886073,14 C13.0124649,14 12.7886073,14.2238576 12.7886073,14.5 L12.7886073,16.5 C12.7886073,16.7761424 13.0124649,17 13.2886073,17 L16.2886073,17 C16.5647497,17 16.7886073,16.7761424 16.7886073,16.5 L16.7886073,14.5 C16.7886073,14.2238576 16.5647497,14 16.2886073,14 L13.2886073,14 Z" id="Combined-Shape" fill="#FFFFFF" mask="url(#mask-4)"></path>
+                    <g id="Triangle-Copy" mask="url(#mask-4)" transform="translate(13.593750, 19.617647) scale(-1, 1) translate(-13.593750, -19.617647) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                        <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    </g>
+                    <g id="Triangle" mask="url(#mask-4)">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                        <use fill="url(#linearGradient-8)" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    </g>
+                    <mask id="mask-12" fill="white">
+                        <use xlink:href="#path-11"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-11"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
