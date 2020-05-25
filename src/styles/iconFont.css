@@ -1,0 +1,59 @@
+@font-face {
+    font-family: m-font;
+    src: url("../fonts/m-font.eot");src: url("../fonts/m-font.eot?b0f2895a#iefix") format("embedded-opentype"),
+             url("../fonts/m-font.woff2?b0f2895a") format("woff2"),
+             url("../fonts/m-font.woff?b0f2895a") format("woff"),
+             url("../fonts/m-font.ttf?b0f2895a") format("truetype"),
+             url("../fonts/m-font.svg?b0f2895a#m-font") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="m-icon"], [class*=" m-icon"] {
+    font-family: 'm-font' !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-style: normal;
+}
+
+
+.m-icon-arrow-left::before {
+    content: "\ea01";
+}
+
+.m-icon-arrow-right::before {
+    content: "\ea02";
+}
+
+.m-icon-close::before {
+    content: "\ea03";
+}
+
+.m-icon-comment::before {
+    content: "\ea04";
+}
+
+.m-icon-following::before {
+    content: "\ea05";
+}
+
+.m-icon-help::before {
+    content: "\ea06";
+}
+
+.m-icon-hide::before {
+    content: "\ea07";
+}
+
+.m-icon-like::before {
+    content: "\ea08";
+}
+
+.m-icon-share::before {
+    content: "\ea09";
+}
+
+.m-icon-tel::before {
+    content: "\ea0a";
+}
+
